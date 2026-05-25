@@ -4,7 +4,7 @@
 
 ### Data Analyst & ML Engineer · Frankfurt, Germany
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Anurag101723.github.io-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Anurag101723.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Anurag101723.github.io-e63946?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Anurag101723.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anurag1017-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag1017)
 [![Email](https://img.shields.io/badge/Email-anuragakrathore@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragakrathore@gmail.com)
 
@@ -14,23 +14,24 @@
 
 ## 🧠 About Me
 
-I'm a data professional with an **M.Sc. in Big Data & Business Analytics** (Grade 1.9) from FOM University of Applied Sciences, Essen. I specialise in turning messy, real-world data into decisions that matter — with a strong focus on **explainable AI**, **machine learning**, and **business analytics**.
+M.Sc. Big Data & Business Analytics **(Grade 1.9)** — FOM University of Applied Sciences, Essen.
 
-Previously a Data Analyst at **Satori Group India**, where I built end-to-end pipelines and Power BI dashboards across multiple client engagements. My master's thesis explored **XAI frameworks** for enterprise decision-making using XGBoost, LIME, and SHAP.
+I build machine learning systems that don't just predict — they **explain, justify, and earn trust**. My focus is explainable AI, predictive analytics, and translating complex model outputs into business decisions that non-technical stakeholders can act on.
 
-> *"The goal is not just to predict — it is to explain, justify, and earn trust."*
+Previously a **Data Analyst at Satori Group India**, building end-to-end pipelines and Power BI dashboards across multiple client engagements. My master's thesis designed an **XAI framework** for enterprise decision-making using XGBoost, LIME, and SHAP.
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tools | Results |
-|---|---|---|---|
-| 🏥 [Healthcare Cost Prediction](https://github.com/Anurag101723/healthcare-cost-prediction) | Hospital billing classification on 60k patient records | Random Forest, SHAP, SMOTE | Accuracy: 84%, AUC: 0.92 |
-| ⚡ [Renewable Energy Sentiment](https://github.com/Anurag101723/renewable-energy-sentiment-analysis) | Germany's energy production vs Reddit public sentiment | VADER, PRAW, NLP | R²: 0.94, Corr: 0.58 |
-| 🔬 [XAI for Strategic Decision-Making](https://github.com/Anurag101723/msc-thesis-xai-decision-making) | Master's thesis — explainable AI framework for enterprise | XGBoost, LIME, SHAP | Grade: 1.9 |
-| 🍬 [Storck Sales Analytics](https://github.com/Anurag101723/storck-predictive-sales-analytics) | 6-year FMCG sales forecasting for German confectionery brand | Random Forest, Power BI | R²: 0.60 |
-| 🖥️ [GPU Market Analytics](https://github.com/Anurag101723/gpu-market-analytics) | NVIDIA GPU price-performance analysis & market segmentation | Random Forest, K-Means | R²: 0.91 |
+| # | Project | Description | Tools | Result |
+|---|---|---|---|---|
+| 🔬 | [XAI for Strategic Decision-Making](https://github.com/Anurag101723/msc-thesis-xai-decision-making) | Master's thesis — explainable AI framework for enterprise decision support | XGBoost, LIME, SHAP | Grade: 1.9 |
+| 👥 | [HR Attrition Prediction](https://github.com/Anurag101723/hr-attrition-prediction) | Predict employee attrition + What-If simulator for HR interventions | XGBoost, SHAP, SMOTE | AUC: 0.746, −70.7% risk reduction |
+| 🏥 | [Healthcare Cost Prediction](https://github.com/Anurag101723/healthcare-cost-prediction) | Hospital billing classification on 60,000 patient records | Random Forest, SHAP | Accuracy: 84%, AUC: 0.92 |
+| ⚡ | [Renewable Energy Sentiment](https://github.com/Anurag101723/renewable-energy-sentiment-analysis) | Germany's energy output vs Reddit public sentiment | VADER, PRAW, NLP | R²: 0.94 |
+| 🍬 | [Storck Sales Analytics](https://github.com/Anurag101723/storck-predictive-sales-analytics) | 6-year FMCG sales forecasting for German confectionery brand | Random Forest, Power BI | R²: 0.60 |
+| 🖥️ | [GPU Market Analytics](https://github.com/Anurag101723/gpu-market-analytics) | NVIDIA GPU price-performance analysis & market segmentation | Random Forest, K-Means | R²: 0.91 |
 
 ---
 
@@ -80,8 +81,8 @@ Previously a Data Analyst at **Satori Group India**, where I built end-to-end pi
 - 📍 Based in **Frankfurt, Germany**
 - 🎓 **M.Sc. Big Data & Business Analytics** — FOM University (Grade 1.9)
 - 💼 Former **Data Analyst** at Satori Group India
-- 🌐 **English** C1 · **German** A2 · **Hindi** Native
-- 📬 Open to **Data Analyst**, **Business Analyst**, and **ML Engineer** roles in Germany & Europe
+- 🌐 English C1 · German A2 · Hindi Native
+- 📬 Open to **Data Analyst**, **Business Analyst** and **ML Engineer** roles in Germany & Europe
 
 ---
 
